@@ -1,0 +1,357 @@
+{
+    "Ambree": [
+        {
+            "Westvleteren": [
+                18.0,
+                "Trappiste"
+            ]
+        },
+        {
+            "Leffe rituel9°": [
+                14.0,
+                "Houblon"
+            ]
+        },
+        {
+            "Caracole": [
+                8.0,
+                "Simple"
+            ]
+        },
+        {
+            "Leffe radieuse": [
+                13.0,
+                "Fruite"
+            ]
+        },
+        {
+            "Trappe quadrupel": [
+                16.0,
+                "Trappiste"
+            ]
+        },
+        {
+            "Duvel tripel hop": [
+                16.0,
+                "Houblon"
+            ]
+        },
+        {
+            "Orval": [
+                20.0,
+                "Trappiste"
+            ]
+        },
+        {
+            "Trappe Isid'or": [
+                16.0,
+                "Trappiste"
+            ]
+        },
+        {
+            "Lili blue": [
+                19.0,
+                "Simple"
+            ]
+        }
+    ],
+    "Blanche": [
+        {
+            "Lupulus triple": [
+                16.0,
+                "Triple"
+            ]
+        },
+        {
+            "Hoegaarden": [
+                11.5,
+                "Simple"
+            ]
+        }
+    ],
+    "Blonde": [
+        {
+            "Cuvée des Trolls": [
+                12.0,
+                "Simple"
+            ]
+        },
+        {
+            "Tripel Karmeliet": [
+                19.0,
+                "Triple"
+            ]
+        },
+        {
+            "Houblon Chouffe": [
+                14.5,
+                "Houblon"
+            ]
+        },
+        {
+            "Chouffe soleil": [
+                13.0,
+                "Fruite"
+            ]
+        },
+        {
+            "La super des Fagnes": [
+                13.5,
+                "Simple"
+            ]
+        },
+        {
+            "Corne des bois des pendus blonde": [
+                15.0,
+                "Simple"
+            ]
+        },
+        {
+            "Jupiler": [
+                11.0,
+                "Pils"
+            ]
+        },
+        {
+            "Kaiser": [
+                5.0,
+                "Pils"
+            ]
+        },
+        {
+            "Chimay triple": [
+                15.0,
+                "Trappiste"
+            ]
+        },
+        {
+            "Corne des bois des pendus triple": [
+                13.5,
+                "Triple"
+            ]
+        },
+        {
+            "365": [
+                2.0,
+                "Pils"
+            ]
+        },
+        {
+            "Saint feuillien blonde": [
+                13.0,
+                "Simple"
+            ]
+        },
+        {
+            "Barbar": [
+                15.3,
+                "Simple"
+            ]
+        },
+        {
+            "Saint feuillien triple": [
+                14.5,
+                "Triple"
+            ]
+        },
+        {
+            "Rulles": [
+                14.0,
+                "Simple"
+            ]
+        },
+        {
+            "Leffe blonde": [
+                12.0,
+                "Simple"
+            ]
+        },
+        {
+            "Carapils": [
+                10.0,
+                "Pils"
+            ]
+        },
+        {
+            "Julius": [
+                16.0,
+                "Fruite"
+            ]
+        },
+        {
+            "Chimay dorée": [
+                14.0,
+                "Trappiste"
+            ]
+        },
+        {
+            "Rulles saison": [
+                15.0,
+                "Simple"
+            ]
+        },
+        {
+            "Forestinne Nordika": [
+                14.5,
+                "Fruite"
+            ]
+        },
+        {
+            "Chouffe": [
+                15.0,
+                "Simple"
+            ]
+        },
+        {
+            "Duvel": [
+                14.0,
+                "Simple"
+            ]
+        },
+        {
+            "Kasteel triple": [
+                14.0,
+                "Triple"
+            ]
+        },
+        {
+            "Maes": [
+                12.0,
+                "Pils"
+            ]
+        },
+        {
+            "Leffe nectar": [
+                13.0,
+                "Fruite"
+            ]
+        },
+        {
+            "Forestinne Mystéria": [
+                14.0,
+                "Fruite"
+            ]
+        },
+        {
+            "Leffe royal cascade": [
+                17.0,
+                "Houblon"
+            ]
+        },
+        {
+            "Westmalle": [
+                14.0,
+                "Trappiste"
+            ]
+        },
+        {
+            "Leffe triple": [
+                12.0,
+                "Triple"
+            ]
+        }
+    ],
+    "Brune": [
+        {
+            "Trappe dubbel": [
+                14.5,
+                "Trappiste"
+            ]
+        },
+        {
+            "Lupulus brune": [
+                14.0,
+                "Simple"
+            ]
+        },
+        {
+            "Saint feuillien brune": [
+                14.5,
+                "Simple"
+            ]
+        },
+        {
+            "Mc Chouffe": [
+                14.0,
+                "Simple"
+            ]
+        },
+        {
+            "Chimay rouge": [
+                15.0,
+                "Trappiste"
+            ]
+        },
+        {
+            "Chimay bleu": [
+                17.0,
+                "Trappiste"
+            ]
+        },
+        {
+            "Forestinne Gotjika": [
+                12.0,
+                "Houblon"
+            ]
+        },
+        {
+            "Leffe brune": [
+                11.0,
+                "Simple"
+            ]
+        },
+        {
+            "N'ice Chouffe": [
+                14.0,
+                "Houblon"
+            ]
+        },
+        {
+            "Rochefort 8°": [
+                15.0,
+                "Trappiste"
+            ]
+        }
+    ],
+    "Indeterminer": [],
+    "Noire": [
+        {
+            "Rochefort 10°": [
+                16.5,
+                "Trappiste"
+            ]
+        },
+        {
+            "Kaiser noire": [
+                3.0,
+                "Pils"
+            ]
+        },
+        {
+            "Corne des bois des pendus noire": [
+                14.5,
+                "Simple"
+            ]
+        },
+        {
+            "Guiness": [
+                11.0,
+                "Simple"
+            ]
+        }
+    ],
+    "Rouge": [
+        {
+            "Kasteel rouge": [
+                14.0,
+                "Simple"
+            ]
+        },
+        {
+            "Leffe ruby": [
+                17.0,
+                "Fruite"
+            ]
+        }
+    ]
+}

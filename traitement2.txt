@@ -1,0 +1,360 @@
+{
+    "D'Abbaye": [],
+    "Double": [],
+    "Fruite": [
+        {
+            "Chouffe soleil": [
+                13.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Leffe ruby": [
+                17.0,
+                "Rouge"
+            ]
+        },
+        {
+            "Julius": [
+                16.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Leffe radieuse": [
+                13.0,
+                "Ambree"
+            ]
+        },
+        {
+            "Forestinne Nordika": [
+                14.5,
+                "Blonde"
+            ]
+        },
+        {
+            "Leffe nectar": [
+                13.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Forestinne Mystéria": [
+                14.0,
+                "Blonde"
+            ]
+        }
+    ],
+    "Houblon": [
+        {
+            "Houblon Chouffe": [
+                14.5,
+                "Blonde"
+            ]
+        },
+        {
+            "Leffe rituel9°": [
+                14.0,
+                "Ambree"
+            ]
+        },
+        {
+            "Duvel tripel hop": [
+                16.0,
+                "Ambree"
+            ]
+        },
+        {
+            "Forestinne Gotjika": [
+                12.0,
+                "Brune"
+            ]
+        },
+        {
+            "N'ice Chouffe": [
+                14.0,
+                "Brune"
+            ]
+        },
+        {
+            "Leffe royal cascade": [
+                17.0,
+                "Blonde"
+            ]
+        }
+    ],
+    "Indeterminer": [],
+    "Pils": [
+        {
+            "Kaiser noire": [
+                3.0,
+                "Noire"
+            ]
+        },
+        {
+            "Jupiler": [
+                11.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Kaiser": [
+                5.0,
+                "Blonde"
+            ]
+        },
+        {
+            "365": [
+                2.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Carapils": [
+                10.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Maes": [
+                12.0,
+                "Blonde"
+            ]
+        }
+    ],
+    "Quadruple": [],
+    "Simple": [
+        {
+            "Cuvée des Trolls": [
+                12.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Kasteel rouge": [
+                14.0,
+                "Rouge"
+            ]
+        },
+        {
+            "La super des Fagnes": [
+                13.5,
+                "Blonde"
+            ]
+        },
+        {
+            "Corne des bois des pendus blonde": [
+                15.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Corne des bois des pendus noire": [
+                14.5,
+                "Noire"
+            ]
+        },
+        {
+            "Lupulus brune": [
+                14.0,
+                "Brune"
+            ]
+        },
+        {
+            "Saint feuillien blonde": [
+                13.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Barbar": [
+                15.3,
+                "Blonde"
+            ]
+        },
+        {
+            "Caracole": [
+                8.0,
+                "Ambree"
+            ]
+        },
+        {
+            "Rulles": [
+                14.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Leffe blonde": [
+                12.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Saint feuillien brune": [
+                14.5,
+                "Brune"
+            ]
+        },
+        {
+            "Guiness": [
+                11.0,
+                "Noire"
+            ]
+        },
+        {
+            "Rulles saison": [
+                15.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Mc Chouffe": [
+                14.0,
+                "Brune"
+            ]
+        },
+        {
+            "Chouffe": [
+                15.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Duvel": [
+                14.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Hoegaarden": [
+                11.5,
+                "Blanche"
+            ]
+        },
+        {
+            "Leffe brune": [
+                11.0,
+                "Brune"
+            ]
+        },
+        {
+            "Lili blue": [
+                19.0,
+                "Ambree"
+            ]
+        }
+    ],
+    "Trappiste": [
+        {
+            "Trappe dubbel": [
+                14.5,
+                "Brune"
+            ]
+        },
+        {
+            "Rochefort 10°": [
+                16.5,
+                "Noire"
+            ]
+        },
+        {
+            "Westvleteren": [
+                18.0,
+                "Ambree"
+            ]
+        },
+        {
+            "Chimay triple": [
+                15.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Chimay dorée": [
+                14.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Chimay rouge": [
+                15.0,
+                "Brune"
+            ]
+        },
+        {
+            "Chimay bleu": [
+                17.0,
+                "Brune"
+            ]
+        },
+        {
+            "Trappe quadrupel": [
+                16.0,
+                "Ambree"
+            ]
+        },
+        {
+            "Orval": [
+                20.0,
+                "Ambree"
+            ]
+        },
+        {
+            "Rochefort 8°": [
+                15.0,
+                "Brune"
+            ]
+        },
+        {
+            "Westmalle": [
+                14.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Trappe Isid'or": [
+                16.0,
+                "Ambree"
+            ]
+        }
+    ],
+    "Triple": [
+        {
+            "Tripel Karmeliet": [
+                19.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Corne des bois des pendus triple": [
+                13.5,
+                "Blonde"
+            ]
+        },
+        {
+            "Lupulus triple": [
+                16.0,
+                "Blanche"
+            ]
+        },
+        {
+            "Saint feuillien triple": [
+                14.5,
+                "Blonde"
+            ]
+        },
+        {
+            "Kasteel triple": [
+                14.0,
+                "Blonde"
+            ]
+        },
+        {
+            "Leffe triple": [
+                12.0,
+                "Blonde"
+            ]
+        }
+    ]
+}
