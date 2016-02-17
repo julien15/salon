@@ -5,7 +5,7 @@ import json
 import time
 import os
 #fonction permettant d'ouvrir la page d'accueil, principalement du html et css
-@route('/salon')
+@route('/')
 def formulaire():
     c='''
         <!DOCTYPE html>
