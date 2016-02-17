@@ -1,0 +1,287 @@
+{
+    "365": {
+        "cote": 2.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Pils"
+    },
+    "Barbar": {
+        "cote": 15.3,
+        "couleur": "Blonde",
+        "type/fermentation": "Simple"
+    },
+    "Caracole": {
+        "cote": 8.0,
+        "couleur": "Ambree",
+        "type/fermentation": "Simple"
+    },
+    "Carapils": {
+        "cote": 10.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Pils"
+    },
+    "Chimay bleu": {
+        "cote": 17.0,
+        "couleur": "Brune",
+        "type/fermentation": "Trappiste"
+    },
+    "Chimay dorée": {
+        "cote": 14.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Trappiste"
+    },
+    "Chimay rouge": {
+        "cote": 15.0,
+        "couleur": "Brune",
+        "type/fermentation": "Trappiste"
+    },
+    "Chimay triple": {
+        "cote": 15.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Trappiste"
+    },
+    "Chouffe": {
+        "cote": 15.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Simple"
+    },
+    "Chouffe soleil": {
+        "cote": 13.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Fruite"
+    },
+    "Corne des bois des pendus blonde": {
+        "cote": 15.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Simple"
+    },
+    "Corne des bois des pendus noire": {
+        "cote": 14.5,
+        "couleur": "Noire",
+        "type/fermentation": "Simple"
+    },
+    "Corne des bois des pendus triple": {
+        "cote": 13.5,
+        "couleur": "Blonde",
+        "type/fermentation": "Triple"
+    },
+    "Cuvée des Trolls": {
+        "cote": 12.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Simple"
+    },
+    "Duvel": {
+        "cote": 14.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Simple"
+    },
+    "Duvel tripel hop": {
+        "cote": 16.0,
+        "couleur": "Ambree",
+        "type/fermentation": "Houblon"
+    },
+    "Forestinne Gotjika": {
+        "cote": 12.0,
+        "couleur": "Brune",
+        "type/fermentation": "Houblon"
+    },
+    "Forestinne Mystéria": {
+        "cote": 14.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Fruite"
+    },
+    "Forestinne Nordika": {
+        "cote": 14.5,
+        "couleur": "Blonde",
+        "type/fermentation": "Fruite"
+    },
+    "Guiness": {
+        "cote": 11.0,
+        "couleur": "Noire",
+        "type/fermentation": "Simple"
+    },
+    "Hoegaarden": {
+        "cote": 11.5,
+        "couleur": "Blanche",
+        "type/fermentation": "Simple"
+    },
+    "Houblon Chouffe": {
+        "cote": 14.5,
+        "couleur": "Blonde",
+        "type/fermentation": "Houblon"
+    },
+    "Julius": {
+        "cote": 16.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Fruite"
+    },
+    "Jupiler": {
+        "cote": 11.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Pils"
+    },
+    "Kaiser": {
+        "cote": 5.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Pils"
+    },
+    "Kaiser noire": {
+        "cote": 3.0,
+        "couleur": "Noire",
+        "type/fermentation": "Pils"
+    },
+    "Kasteel rouge": {
+        "cote": 14.0,
+        "couleur": "Rouge",
+        "type/fermentation": "Simple"
+    },
+    "Kasteel triple": {
+        "cote": 14.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Triple"
+    },
+    "La super des Fagnes": {
+        "cote": 13.5,
+        "couleur": "Blonde",
+        "type/fermentation": "Simple"
+    },
+    "Leffe blonde": {
+        "cote": 12.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Simple"
+    },
+    "Leffe brune": {
+        "cote": 11.0,
+        "couleur": "Brune",
+        "type/fermentation": "Simple"
+    },
+    "Leffe nectar": {
+        "cote": 13.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Fruite"
+    },
+    "Leffe radieuse": {
+        "cote": 13.0,
+        "couleur": "Ambree",
+        "type/fermentation": "Fruite"
+    },
+    "Leffe rituel9°": {
+        "cote": 14.0,
+        "couleur": "Ambree",
+        "type/fermentation": "Houblon"
+    },
+    "Leffe royal cascade": {
+        "cote": 17.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Houblon"
+    },
+    "Leffe ruby": {
+        "cote": 17.0,
+        "couleur": "Rouge",
+        "type/fermentation": "Fruite"
+    },
+    "Leffe triple": {
+        "cote": 12.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Triple"
+    },
+    "Lili blue": {
+        "cote": 19.0,
+        "couleur": "Ambree",
+        "type/fermentation": "Simple"
+    },
+    "Lupulus brune": {
+        "cote": 14.0,
+        "couleur": "Brune",
+        "type/fermentation": "Simple"
+    },
+    "Lupulus triple": {
+        "cote": 16.0,
+        "couleur": "Blanche",
+        "type/fermentation": "Triple"
+    },
+    "Maes": {
+        "cote": 12.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Pils"
+    },
+    "Mc Chouffe": {
+        "cote": 14.0,
+        "couleur": "Brune",
+        "type/fermentation": "Simple"
+    },
+    "N'ice Chouffe": {
+        "cote": 14.0,
+        "couleur": "Brune",
+        "type/fermentation": "Houblon"
+    },
+    "Orval": {
+        "cote": 20.0,
+        "couleur": "Ambree",
+        "type/fermentation": "Trappiste"
+    },
+    "Rochefort 10°": {
+        "cote": 16.5,
+        "couleur": "Noire",
+        "type/fermentation": "Trappiste"
+    },
+    "Rochefort 8°": {
+        "cote": 15.0,
+        "couleur": "Brune",
+        "type/fermentation": "Trappiste"
+    },
+    "Rulles": {
+        "cote": 14.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Simple"
+    },
+    "Rulles saison": {
+        "cote": 15.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Simple"
+    },
+    "Saint feuillien blonde": {
+        "cote": 13.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Simple"
+    },
+    "Saint feuillien brune": {
+        "cote": 14.5,
+        "couleur": "Brune",
+        "type/fermentation": "Simple"
+    },
+    "Saint feuillien triple": {
+        "cote": 14.5,
+        "couleur": "Blonde",
+        "type/fermentation": "Triple"
+    },
+    "Trappe Isid'or": {
+        "cote": 16.0,
+        "couleur": "Ambree",
+        "type/fermentation": "Trappiste"
+    },
+    "Trappe dubbel": {
+        "cote": 14.5,
+        "couleur": "Brune",
+        "type/fermentation": "Trappiste"
+    },
+    "Trappe quadrupel": {
+        "cote": 16.0,
+        "couleur": "Ambree",
+        "type/fermentation": "Trappiste"
+    },
+    "Tripel Karmeliet": {
+        "cote": 19.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Triple"
+    },
+    "Westmalle": {
+        "cote": 14.0,
+        "couleur": "Blonde",
+        "type/fermentation": "Trappiste"
+    },
+    "Westvleteren": {
+        "cote": 18.0,
+        "couleur": "Ambree",
+        "type/fermentation": "Trappiste"
+    }
+}
